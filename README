@@ -1,0 +1,5 @@
+On a linux box type type 'make' in the terminal.
+
+Dependencies:
+LaTeX
+Beamer (https://bitbucket.org/rivanvx/beamer/wiki/Home)
